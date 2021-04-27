@@ -1,0 +1,15 @@
+#main {
+	background-color: #eba9df;
+}
+#name{
+	background-color: #eb7734;
+	text-shadow: transparent 1px;
+	text-align: center;
+	color:white;
+	border-color: black;
+}
+#welcome{
+	text-align: center;
+	text-shadow: transparent 1px;
+	border: black;
+}
